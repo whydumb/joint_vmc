@@ -2,7 +2,7 @@
 [![License: AGPL-3.0-or-later](https://img.shields.io/badge/%E2%9A%96%EF%B8%8F-AGPL%203.0%20or%20later-brightgreen)](https://www.gnu.org/licenses/agpl.html)
 [![State: Unstable](https://img.shields.io/badge/State-Unstable-yellow.svg)](https://github.com/vivi90/python-vmc/issues)
 
-WARNING: This package is still a draft, but working now ;)
+WARNING: This package is still a draft, but working ndow ;)
 ![Current state](state.png)
 
 ## Testing
